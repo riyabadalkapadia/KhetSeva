@@ -1,4 +1,4 @@
-🌾 Khetseva – Smart Agriculture Assistance Platform
+🌾 Khetseva – A Smart Harvest
 
 Khetseva is an intelligent agriculture assistance platform designed to help farmers make data-driven decisions. The system integrates Machine Learning and Deep Learning models to provide crop recommendations, plant disease detection, and crop price prediction, all in a single unified platform.
 
